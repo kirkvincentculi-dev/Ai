@@ -19,7 +19,7 @@
 
 ------------------------------------------------------------------ CONFIG
 local CONFIG = {
-	API_KEY = "AQ.Ab8RN6IBSfMQQMS0tHPjYibFCsIcrezk2ctlmKoJN-aUGe3rAQ",                              -- your API key
+	API_KEY = AQ.Ab8RN6IBSfMQQMS0tHPjYibFCsIcrezk2ctlmKoJN-aUGe3rAQ,                              -- your API key
 	API_URL = "https://generativelanguage.googleapis.com/v1beta/models/",
 	MODEL = "gemini-3.8-flash",
 	MAX_TOKENS = 8000000,
